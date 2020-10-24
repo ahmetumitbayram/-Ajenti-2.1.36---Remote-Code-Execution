@@ -9,3 +9,4 @@
 # Version: 2.1.36
 # Tested on: Kali Linux & Ubuntu 18.04.5
 # CVE: N/A
+# Exploit-DB Link: https://www.exploit-db.com/exploits/48929
